@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memos</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="server_url">Server URL</string>
+    <string name="create_memo">Create Memo</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
